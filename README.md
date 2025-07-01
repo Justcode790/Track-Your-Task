@@ -11,10 +11,6 @@
 - Fully responsive and mobile-friendly design  
 - Clean and user-friendly interface
 
-## 🌐 Live Demo
-
-*(Optional: Add link if deployed, e.g., GitHub Pages)*  
-[Live Demo](https://your-username.github.io/Track-Your-Task)
 
 ## 🛠️ Built With
 
@@ -55,11 +51,5 @@ Track-Your-Task/
 ## 🤝 Contributing
 
 Feel free to fork this project and submit a pull request with your improvements.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Happy task tracking! 📝🚀
